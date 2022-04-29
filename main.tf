@@ -1,7 +1,5 @@
 provider "aws" {
     region = "ap-south-1" 
-#    access_key = "AKIATFIOM4K36WAPUJW5"
-#    secret_key = "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"
 }
 
 #EC2
